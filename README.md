@@ -6,10 +6,9 @@ A machine-learning project to predict cardiovascular disease risk from clinical 
 
 ---
 
-## Data
+## Dataset
 
 Data was obtained from https://data.mendeley.com/datasets/dzz48mvjht/1
-
 
 ---
 
