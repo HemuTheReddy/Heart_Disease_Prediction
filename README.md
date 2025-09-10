@@ -22,8 +22,6 @@ This project trains several models (**Random Forest**, **XGBoost**, **Logistic R
 3. **Model training & hyperparameter tuning** via randomized search.  
 4. **Evaluation** with confusion matrices, accuracy, precision, recall, F1 score, and ROC AUC.  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ---
 
 ## Results and Visuals
@@ -44,6 +42,5 @@ Side-by-side confusion matrices for Random Forest, XGBoost, and Logistic Regress
 Table of accuracy, precision, recall, F1 score, and ROC AUC for each model, rounded to five decimal places. XGBoost achieves the highest overall AUC and a strong balance of precision and recall.  
 ![Metrics Comparison](images/metrics_comparison.png)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
